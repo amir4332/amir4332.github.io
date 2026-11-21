@@ -1,41 +1,31 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex, nofollow">
-<title>Image prompts part-4</title>
-<style>:root{--bg:#f6f3ee;--fg:#22252a;--muted:#5c6470;--card:#fff;--line:#e2ddd4;--link:#2f5d8a;--code:#f1ede6}
-@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#16181c;--fg:#e8e6e1;--muted:#a3a9b3;--card:#1f2228;--line:#30343b;--link:#8fb6e0;--code:#262a31}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-main{max-width:860px;margin:0 auto;padding:28px 16px 64px}h1{font-size:1.6rem;margin:0 0 6px}.muted{color:var(--muted)}a{color:var(--link)}
-section{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:0 0 16px}
-h2{font-size:1.15rem;margin:0 0 8px}pre{white-space:pre-wrap;word-wrap:break-word;background:var(--code);border-radius:8px;padding:12px;font-size:.86rem;line-height:1.45;margin:10px 0 0}
-.sheets{display:flex;flex-wrap:wrap;gap:10px;margin:6px 0}.sheets a{display:block;width:180px;font-size:.85rem;text-decoration:none}
-.sheets img{width:180px;height:auto;border:1px solid var(--line);border-radius:6px;display:block}
-.fa{direction:rtl;text-align:right;font-family:Tahoma,system-ui,sans-serif}</style></head><body><main>
-<h1>Image prompts · part-4</h1>
-<p class="muted">26 images: 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118 · <a href="prompts.txt">plain text version</a></p>
-<section><p>How to use this page (for ChatGPT): the images are numbered, and the sheets are ALSO attached as images in this chat (your browser cannot open the sheet links, so always use the attached sheets: each image below says which sheet numbers it needs). Make exactly ONE image per reply: find the next image below, look carefully at its attached sheets, check its prompt against them (outfit, number of people, what lies on the ground, the plane’s colours), then draw exactly what its prompt says. Never put several images or a grid in one picture, and never invent other scenes. After each image, stop; when I write “next”, make the next image in order. Wide 16:9, never any text or the image number in the picture. When every image on this page is done and I ask for it, put them all in ONE zip file named after this page (for example remake-1.zip), each image named by its number with three digits (065.png, 067.png …), and give me the download link.</p></section>
-<section id="image-93"><h2>Image 93</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(1) Sheet 6: how the snow buries the car during the night</a>
-</div>
-<pre>Image 93. (This number is only for my ordering; never draw it.)
+IMAGE PROMPTS · chat-3 · 26 images: 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118
+
+How to use this page (for ChatGPT): the images are numbered, and the sheets are ALSO attached as images in this chat (your browser cannot open the sheet links, so always use the attached sheets: each image below says which sheet numbers it needs). Make exactly ONE image per reply: find the next image below, look carefully at its attached sheets, check its prompt against them (outfit, number of people, what lies on the ground, the plane’s colours), then draw exactly what its prompt says. Never put several images or a grid in one picture, and never invent other scenes. After each image, stop; when I write “next”, make the next image in order. Wide 16:9, never any text or the image number in the picture. When every image on this page is done and I ask for it, put them all in ONE zip file named after this page (for example remake-1.zip), each image named by its number with three digits (065.png, 067.png …), and give me the download link.
+
+============================================================
+Image 93
+Sheet (1) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+
+Image 93. (This number is only for my ordering; never draw it.)
 
 Use the 1 sheet linked above (open each one): (1) how the snow buries the car during the night. Draw the snow on the car EXACTLY like the sheet; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Exactly like panel 4 of the snow sheet: the car buried up to its roof at night, the red scarf on the antenna, a soft warm light in a small cleared patch of the driver&#x27;s window.
+SCENE: Exactly like panel 4 of the snow sheet: the car buried up to its roof at night, the red scarf on the antenna, a soft warm light in a small cleared patch of the driver's window.
 
 The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, flapping in the wind. (The snow sheet shows four moments of the night; follow the snow height written here.)
 
-Light: a dark slate gray-blue night in a snowstorm, snow blowing; one small soft warm gold light glows in the car&#x27;s windows (never glowing outward). Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+Light: a dark slate gray-blue night in a snowstorm, snow blowing; one small soft warm gold light glows in the car's windows (never glowing outward). Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-94"><h2>Image 94</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-</div>
-<pre>Image 94. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 94
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+
+Image 94. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car. Draw Ash and the inside of the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -43,7 +33,7 @@ SCENE: Inside the dim car: Ash, very tired, eyes half closed, turns the key with
 
 POSE: His RIGHT hand turns the key; his LEFT hand rests on his thigh. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -53,13 +43,14 @@ Light: inside the car at night, every window covered by packed snow, pale gray-b
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-95"><h2>Image 95</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg" alt="sheet 5" loading="lazy">(1) Sheet 5: his car, a small teal blue hatchback</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(2) Sheet 6: how the snow buries the car during the night</a>
-</div>
-<pre>Image 95. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 95
+Sheet (1) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+Sheet (2) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+
+Image 95. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) his car, a small teal blue hatchback; (2) how the snow buries the car during the night. Draw the car and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -71,21 +62,22 @@ Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-96"><h2>Image 96</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-</div>
-<pre>Image 96. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 96
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+
+Image 96. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car. Draw Ash and the inside of the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Inside the car: Ash asleep in the driver&#x27;s seat, his head back, the dome light on, warm air from the vents; the windows white with snow.
+SCENE: Inside the car: Ash asleep in the driver's seat, his head back, the dome light on, warm air from the vents; the windows white with snow.
 
 POSE: Both of his hands rest in his lap; his head leans back on the headrest. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -95,21 +87,22 @@ Light: inside the car at night, every window covered by packed snow; only the sm
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-97"><h2>Image 97</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg" alt="sheet 9" loading="lazy">(2) Sheet 9: the objects of my story</a>
-</div>
-<pre>Image 97. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 97
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 97. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the objects of my story. Draw Ash and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: A close-up of Ash&#x27;s chest: a soft light shines through the top of his zipped jacket where the phone is; small cartoon buzz lines around it.
+SCENE: A close-up of Ash's chest: a soft light shines through the top of his zipped jacket where the phone is; small cartoon buzz lines around it.
 
 POSE: His two hands rest on his thighs; a soft light glows from the top of his zipped jacket. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -119,14 +112,15 @@ Light: inside the car at night, every window covered by packed snow; only the sm
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-98"><h2>Image 98</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg" alt="sheet 9" loading="lazy">(3) Sheet 9: the objects of my story</a>
-</div>
-<pre>Image 98. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 98
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 98. (This number is only for my ordering; never draw it.)
 
 Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) the objects of my story. Draw Ash, the inside of the car and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -134,7 +128,7 @@ SCENE: Inside the car: Ash, just awake, pulls the phone out of his jacket and lo
 
 POSE: His RIGHT hand pulls the phone out of the top of his jacket; his LEFT hand rests on his thigh. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -146,12 +140,13 @@ Light: inside the car at night, every window covered by packed snow; only the sm
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-99"><h2>Image 99</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg" alt="sheet 9" loading="lazy">(1) Sheet 9: the objects of my story</a>
-</div>
-<pre>Image 99. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 99
+Sheet (1) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 99. (This number is only for my ordering; never draw it.)
 
 Use the 1 sheet linked above (open each one): (1) the objects of my story. Draw the objects EXACTLY like the sheet; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -163,13 +158,14 @@ Light: inside the car at night, every window covered by packed snow; only the sm
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-100"><h2>Image 100</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-</div>
-<pre>Image 100. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 100
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+
+Image 100. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car. Draw Ash and the inside of the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -177,7 +173,7 @@ SCENE: Inside the car: Ash holds his head with one hand, wincing, small cartoon 
 
 POSE: His RIGHT hand presses against his forehead; his LEFT hand rests on his thigh. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -187,13 +183,14 @@ Light: inside the car at night, every window covered by packed snow; only the sm
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-101"><h2>Image 101</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-</div>
-<pre>Image 101. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 101
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+
+Image 101. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car. Draw Ash and the inside of the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -201,7 +198,7 @@ SCENE: Inside the car: Ash sways in his seat, dizzy, one hand on his stomach, sm
 
 POSE: His LEFT hand presses on his stomach; his RIGHT hand holds the steering wheel to steady himself. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -211,18 +208,19 @@ Light: inside the car at night, every window covered by packed snow; only the sm
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-102"><h2>Image 102</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-</div>
-<pre>Image 102. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 102
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+
+Image 102. (This number is only for my ordering; never draw it.)
 
 Use the 1 sheet linked above (open each one): (1) Ash in his mustard yellow puffer jacket. Draw Ash EXACTLY like the sheet; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: A close-up of Ash&#x27;s face: his eyes go wide as he understands; worried and alert.
+SCENE: A close-up of Ash's face: his eyes go wide as he understands; worried and alert.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -230,21 +228,22 @@ Light: inside the car at night, every window covered by packed snow; only the sm
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-103"><h2>Image 103</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-</div>
-<pre>Image 103. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 103
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+
+Image 103. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car. Draw Ash and the inside of the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: A close-up: Ash&#x27;s white cartoon hand turns the key in the ignition off.
+SCENE: A close-up: Ash's white cartoon hand turns the key in the ignition off.
 
 POSE: Only his RIGHT hand and forearm (in the yellow sleeve) are seen, turning the key; the hand has a thumb and four fingers.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -254,20 +253,21 @@ Light: inside the car at night, every window covered by packed snow; only the sm
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-104"><h2>Image 104</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg" alt="sheet 5" loading="lazy">(2) Sheet 5: his car, a small teal blue hatchback</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(3) Sheet 6: how the snow buries the car during the night</a>
-</div>
-<pre>Image 104. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 104
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+Sheet (3) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+
+Image 104. (This number is only for my ordering; never draw it.)
 
 Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night. Draw Ash, the car and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Outside at night: Ash pushes the driver&#x27;s door open against the snow; cold air and snow rush at his face; he breathes in deeply.
+SCENE: Outside at night: Ash pushes the driver's door open against the snow; cold air and snow rush at his face; he breathes in deeply.
 
-POSE: His LEFT hand pushes the driver&#x27;s door open against the snow; his RIGHT hand holds the door frame; he leans out, breathing in. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. He sits sideways in the open doorway: one leg still inside the car, the other foot down on the snow outside; each leg is one thin black line from the hip to one white sneaker, never crossed or tangled.
+POSE: His LEFT hand pushes the driver's door open against the snow; his RIGHT hand holds the door frame; he leans out, breathing in. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. He sits sideways in the open doorway: one leg still inside the car, the other foot down on the snow outside; each leg is one thin black line from the hip to one white sneaker, never crossed or tangled.
 
 Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
 
@@ -279,13 +279,14 @@ Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-105"><h2>Image 105</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(2) Sheet 6: how the snow buries the car during the night</a>
-</div>
-<pre>Image 105. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 105
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+
+Image 105. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) how the snow buries the car during the night. Draw Ash and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -303,15 +304,16 @@ Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-106"><h2>Image 106</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg" alt="sheet 5" loading="lazy">(2) Sheet 5: his car, a small teal blue hatchback</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(3) Sheet 6: how the snow buries the car during the night</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg" alt="sheet 9" loading="lazy">(4) Sheet 9: the objects of my story</a>
-</div>
-<pre>Image 106. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 106
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+Sheet (3) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+Sheet (4) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 106. (This number is only for my ordering; never draw it.)
 
 Use the 4 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night; (4) the objects of my story. Draw Ash, the car, the snow on the car and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -331,15 +333,16 @@ Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-107"><h2>Image 107</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg" alt="sheet 5" loading="lazy">(2) Sheet 5: his car, a small teal blue hatchback</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(3) Sheet 6: how the snow buries the car during the night</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg" alt="sheet 9" loading="lazy">(4) Sheet 9: the objects of my story</a>
-</div>
-<pre>Image 107. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 107
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+Sheet (3) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+Sheet (4) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 107. (This number is only for my ordering; never draw it.)
 
 Use the 4 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night; (4) the objects of my story. Draw Ash, the car, the snow on the car and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -359,14 +362,15 @@ Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-108"><h2>Image 108</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg" alt="sheet 9" loading="lazy">(3) Sheet 9: the objects of my story</a>
-</div>
-<pre>Image 108. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 108
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 108. (This number is only for my ordering; never draw it.)
 
 Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) the objects of my story. Draw Ash, the inside of the car and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -374,7 +378,7 @@ SCENE: Inside the car: Ash holds the phone against his chest with both hands, ey
 
 POSE: Both of his hands hold the phone flat against his chest; his eyes are closed. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -386,13 +390,14 @@ Light: inside the car at night, every window covered by packed snow, pale gray-b
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-109"><h2>Image 109</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-</div>
-<pre>Image 109. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 109
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+
+Image 109. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car. Draw Ash and the inside of the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -400,7 +405,7 @@ SCENE: Inside the dark car: Ash lifts his head and listens; everything is silent
 
 POSE: Both of his hands rest on the steering wheel; he lifts his head, listening. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -410,18 +415,19 @@ Light: inside the car at night, every window covered by packed snow, pale gray-b
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-110"><h2>Image 110</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg" alt="sheet 5" loading="lazy">(2) Sheet 5: his car, a small teal blue hatchback</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(3) Sheet 6: how the snow buries the car during the night</a>
-</div>
-<pre>Image 110. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 110
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+Sheet (3) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+
+Image 110. (This number is only for my ordering; never draw it.)
 
 Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night. Draw Ash, the car and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Outside: Ash pushes the driver&#x27;s door open against heavy snow and looks up; the night is clear and calm.
+SCENE: Outside: Ash pushes the driver's door open against heavy snow and looks up; the night is clear and calm.
 
 POSE: His LEFT hand pushes the door open against the snow; his RIGHT hand holds the door frame; he looks up at the sky. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. He sits sideways in the open doorway: one leg still inside the car, the other foot down on the snow outside; each leg is one thin black line from the hip to one white sneaker, never crossed or tangled.
 
@@ -435,12 +441,13 @@ Light: a clear, calm night after the storm: a navy sky full of small soft stars 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-111"><h2>Image 111</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-04.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-04.jpg" alt="sheet 4" loading="lazy">(1) Sheet 4: the bend in the mountain road</a>
-</div>
-<pre>Image 111. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 111
+Sheet (1) = sheet 4, the bend in the mountain road: https://amir4332.github.io/p/v3/sheets/sheet-04.jpg
+
+Image 111. (This number is only for my ordering; never draw it.)
 
 Use the 1 sheet linked above (open each one): (1) the bend in the mountain road. Draw the mountain road EXACTLY like the sheet; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -452,14 +459,15 @@ Light: a clear, calm night after the storm: a navy sky full of small soft stars 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-112"><h2>Image 112</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg" alt="sheet 5" loading="lazy">(2) Sheet 5: his car, a small teal blue hatchback</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(3) Sheet 6: how the snow buries the car during the night</a>
-</div>
-<pre>Image 112. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 112
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+Sheet (3) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+
+Image 112. (This number is only for my ordering; never draw it.)
 
 Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night. Draw Ash, the car and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -477,44 +485,46 @@ Light: a clear, calm night after the storm: a navy sky full of small soft stars 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-113"><h2>Image 113</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg" alt="sheet 5" loading="lazy">(2) Sheet 5: his car, a small teal blue hatchback</a>
-</div>
-<pre>Image 113. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 113
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+
+Image 113. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback. Draw Ash and the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Outside under the stars: Ash lifts the car&#x27;s hood and props it open; snow slides off it.
+SCENE: Outside under the stars: Ash lifts the car's hood and props it open; snow slides off it.
 
-POSE: Both of his hands lift the front edge of the car&#x27;s hood. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards.
+POSE: Both of his hands lift the front edge of the car's hood. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards.
 
 Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
-The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. The car&#x27;s hood is raised (open), with a little snow on it.
+The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. The car's hood is raised (open), with a little snow on it.
 
 Light: a clear, calm night after the storm: a navy sky full of small soft stars (never glowing), no wind and no falling snow; the snow pale blue. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-114"><h2>Image 114</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-06.jpg" alt="sheet 6" loading="lazy">(1) Sheet 6: how the snow buries the car during the night</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-05.jpg" alt="sheet 5" loading="lazy">(2) Sheet 5: his car, a small teal blue hatchback</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-04.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-04.jpg" alt="sheet 4" loading="lazy">(3) Sheet 4: the bend in the mountain road</a>
-</div>
-<pre>Image 114. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 114
+Sheet (1) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+Sheet (3) = sheet 4, the bend in the mountain road: https://amir4332.github.io/p/v3/sheets/sheet-04.jpg
+
+Image 114. (This number is only for my ordering; never draw it.)
 
 Use the 3 sheets linked above (open each one): (1) how the snow buries the car during the night; (2) his car, a small teal blue hatchback; (3) the bend in the mountain road. Draw the snow on the car, the car and the mountain road EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
 SCENE: A wide view under the stars: the car buried to its roof at the bend, its hood raised, the red scarf hanging still on the antenna, a soft warm light inside.
 
-The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. The car&#x27;s hood is raised (open), with a little snow on it. (The snow sheet shows four moments of the night; follow the snow height written here.)
+The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. The car's hood is raised (open), with a little snow on it. (The snow sheet shows four moments of the night; follow the snow height written here.)
 
 The place, exactly like the mountain-road sheet: a bend in a two-lane road high on a forested mountain pass, tall pine trees on the uphill left, a snowbank and a steep slope down to a wide valley on the right, one short green marker post with a small blank plate. NO houses, buildings, town, other cars or people.
 
@@ -522,14 +532,15 @@ Light: a clear, calm night after the storm: a navy sky full of small soft stars 
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-115"><h2>Image 115</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg" alt="sheet 9" loading="lazy">(3) Sheet 9: the objects of my story</a>
-</div>
-<pre>Image 115. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 115
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 115. (This number is only for my ordering; never draw it.)
 
 Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) the objects of my story. Draw Ash, the inside of the car and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -537,7 +548,7 @@ SCENE: Inside the car: Ash eats the last half of the chocolate bar slowly, the e
 
 POSE: His RIGHT hand holds the last piece of chocolate to his mouth; his LEFT hand holds the empty foil. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -549,12 +560,13 @@ Light: inside the car at night, every window covered by packed snow, pale gray-b
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-116"><h2>Image 116</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-09.jpg" alt="sheet 9" loading="lazy">(1) Sheet 9: the objects of my story</a>
-</div>
-<pre>Image 116. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 116
+Sheet (1) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 116. (This number is only for my ordering; never draw it.)
 
 Use the 1 sheet linked above (open each one): (1) the objects of my story. Draw the objects EXACTLY like the sheet; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -566,12 +578,13 @@ Light: inside the car at night, every window covered by packed snow, pale gray-b
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-117"><h2>Image 117</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(1) Sheet 3: the inside of his car</a>
-</div>
-<pre>Image 117. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 117
+Sheet (1) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+
+Image 117. (This number is only for my ordering; never draw it.)
 
 Use the 1 sheet linked above (open each one): (1) the inside of his car. Draw the inside of the car EXACTLY like the sheet; the sheets only show how things look: the pose, the action and the camera come from this description.
 
@@ -583,21 +596,22 @@ Light: inside the car at night, every window covered by packed snow, pale gray-b
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-<section id="image-118"><h2>Image 118</h2>
-<div class="sheets">
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-02.jpg" alt="sheet 2" loading="lazy">(1) Sheet 2: Ash in his mustard yellow puffer jacket</a>
-<a href="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg"><img src="https://amir4332.github.io/p/v3/sheets/sheet-03.jpg" alt="sheet 3" loading="lazy">(2) Sheet 3: the inside of his car</a>
-</div>
-<pre>Image 118. (This number is only for my ordering; never draw it.)
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 118
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+
+Image 118. (This number is only for my ordering; never draw it.)
 
 Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car. Draw Ash and the inside of the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Inside the car, the driver&#x27;s door open a little to the starry night: Ash rubs his hands together and moves his arms, his breath in white clouds, waiting.
+SCENE: Inside the car, the driver's door open a little to the starry night: Ash rubs his hands together and moves his arms, his breath in white clouds, waiting.
 
 POSE: His two hands rub together in front of his chest. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver&#x27;s seat exactly like his sheet: the jacket&#x27;s knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; thick, messy, spiky black hair that stops just above his glasses; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
@@ -607,5 +621,5 @@ Light: inside the car at night, every window covered by packed snow, pale gray-b
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.</pre></section>
-</main></body></html>
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
