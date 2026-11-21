@@ -1,6 +1,6 @@
 IMAGE PROMPTS · remake-1 · 8 images: 65, 67, 69, 97, 101, 107, 117, 118
 
-How to use this page (for ChatGPT): the images are numbered. When I say “make image N”, find “Image N” below, open every sheet listed with it and look at it carefully, then draw exactly what its prompt says, with the characters, the plane and the places looking exactly like those sheets. Before you draw, check the prompt against the sheets (outfit, number of people, what lies on the ground, the plane’s colours). One image per reply, wide 16:9, never any text or the image number in the picture. If you cannot open a sheet from its link, tell me and I will attach it.
+How to use this page (for ChatGPT): the images are numbered. When I say “make image N”, find “Image N” below, open every sheet listed with it and look at it carefully, then draw exactly what its prompt says, with the characters, the plane and the places looking exactly like those sheets. Before you draw, check the prompt against the sheets (outfit, number of people, what lies on the ground, the plane’s colours). Do NOT wait for me between images and do not ask me anything: as soon as one image is done, start the next one in order, until every image on this page is done. If you have to stop, carry on with the next image as soon as I write “next”. Wide 16:9, never any text or the image number in the picture. If you cannot open a sheet from its link, tell me and I will attach it.
 
 ============================================================
 Image 65
