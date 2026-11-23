@@ -1,415 +1,210 @@
-IMAGE PROMPTS · chat-2 · 16 images: 97, 98, 100, 101, 102, 108, 109, 110, 112, 114, 115, 118, 120, 124, 126, 135
+IMAGE PROMPTS · chat-2 · 11 images: 45, 46, 104, 105, 106, 107, 113, 125, 128, 129, 130
 
 How to use this page (for ChatGPT): the images are numbered, and the sheets are ALSO attached as images in this chat (your browser cannot open the sheet links, so always use the attached sheets: each image below says which sheet numbers it needs). Make exactly ONE image per reply: find the next image below, look carefully at its attached sheets, check its prompt against them (outfit, number of people, what lies on the ground, the plane’s colours), then draw exactly what its prompt says. Never put several images or a grid in one picture, and never invent other scenes. After each image, stop; when I write “next”, make the next image in order. Wide 16:9, never any text or the image number in the picture. When every image on this page is done and I ask for it, put them all in ONE zip file named after this page (for example remake-1.zip), each image named by its number with three digits (065.png, 067.png …), and give me the download link.
 
 ============================================================
-Image 97
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
-
-Image 97. (This number is only for my ordering; never draw it.)
-
-Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the objects of my story. Draw Ash and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
-
-SCENE: A close-up of Ash's chest: a soft light shines through the top of his zipped jacket where the phone is; small cartoon buzz lines around it.
-
-POSE: His two hands rest on his thighs; a soft light glows from the top of his zipped jacket. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-From the objects sheet, draw ONLY the objects this description names, each exactly like the sheet. NOTHING else from that sheet lies on the seats, the dashboard or the ground.
-
-Light: inside the car at night, every window covered by packed snow; only the small dome light is on, a soft warm gold circle (never glowing). Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 98
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
-Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
-Sheet (4) = sheet 10, a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy): https://amir4332.github.io/p/v3/sheets/sheet-10.jpg
-
-Image 98. (This number is only for my ordering; never draw it.)
-
-Use the 4 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) the objects of my story; (4) a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy). Draw Ash, the inside of the car, the objects and the seat layout EXACTLY like the sheets; the sheets only show how things look: the pose and the action come from this description, and the camera from the seat-layout picture.
-
-SCENE: Inside the car: Ash, just awake, pulls the phone out of his jacket and looks at it, blinking.
-
-POSE: His RIGHT hand pulls the phone out of the top of his jacket; his LEFT hand rests on his thigh. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
-
-SEAT LAYOUT AND CAMERA: copy them EXACTLY from the attached seat-layout picture (Ash in the driver's seat, seen from the passenger seat): the camera sits in the passenger seat and looks LEFT at Ash; the windshield and the dashboard are on the RIGHT of the picture; Ash sits in the driver's seat facing right, the steering wheel DIRECTLY in front of his chest and face, the key and the gear stick below it; the back of his own seat with its headrest is right behind him, the driver's side window behind him, and the back seat further left. NEVER the steering wheel beside him or in the middle of the car, never Ash on the back seat. From that picture take ONLY the seats, the steering wheel position and the camera; Ash's pose, hands, face, the light and what the windows show come from this description.
-
-From the objects sheet, draw ONLY the objects this description names, each exactly like the sheet. NOTHING else from that sheet lies on the seats, the dashboard or the ground.
-
-Light: inside the car at night, every window covered by packed snow; only the small dome light is on, a soft warm gold circle (never glowing). Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 100
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
-Sheet (3) = sheet 10, a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy): https://amir4332.github.io/p/v3/sheets/sheet-10.jpg
-
-Image 100. (This number is only for my ordering; never draw it.)
-
-Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy). Draw Ash, the inside of the car and the seat layout EXACTLY like the sheets; the sheets only show how things look: the pose and the action come from this description, and the camera from the seat-layout picture.
-
-SCENE: Inside the car: Ash holds his head with one hand, wincing, small cartoon throbbing lines around his head.
-
-POSE: His RIGHT hand presses against his forehead; his LEFT hand rests on his thigh. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
-
-SEAT LAYOUT AND CAMERA: copy them EXACTLY from the attached seat-layout picture (Ash in the driver's seat, seen from the passenger seat): the camera sits in the passenger seat and looks LEFT at Ash; the windshield and the dashboard are on the RIGHT of the picture; Ash sits in the driver's seat facing right, the steering wheel DIRECTLY in front of his chest and face, the key and the gear stick below it; the back of his own seat with its headrest is right behind him, the driver's side window behind him, and the back seat further left. NEVER the steering wheel beside him or in the middle of the car, never Ash on the back seat. From that picture take ONLY the seats, the steering wheel position and the camera; Ash's pose, hands, face, the light and what the windows show come from this description.
-
-Light: inside the car at night, every window covered by packed snow; only the small dome light is on, a soft warm gold circle (never glowing). Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 101
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
-Sheet (3) = sheet 10, a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy): https://amir4332.github.io/p/v3/sheets/sheet-10.jpg
-
-Image 101. (This number is only for my ordering; never draw it.)
-
-Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy). Draw Ash, the inside of the car and the seat layout EXACTLY like the sheets; the sheets only show how things look: the pose and the action come from this description, and the camera from the seat-layout picture.
-
-SCENE: Inside the car: Ash sways in his seat, dizzy, one hand on his stomach, small swirl lines above his head.
-
-POSE: His LEFT hand presses on his stomach; his RIGHT hand holds the steering wheel to steady himself. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
-
-SEAT LAYOUT AND CAMERA: copy them EXACTLY from the attached seat-layout picture (Ash in the driver's seat, seen from the passenger seat): the camera sits in the passenger seat and looks LEFT at Ash; the windshield and the dashboard are on the RIGHT of the picture; Ash sits in the driver's seat facing right, the steering wheel DIRECTLY in front of his chest and face, the key and the gear stick below it; the back of his own seat with its headrest is right behind him, the driver's side window behind him, and the back seat further left. NEVER the steering wheel beside him or in the middle of the car, never Ash on the back seat. From that picture take ONLY the seats, the steering wheel position and the camera; Ash's pose, hands, face, the light and what the windows show come from this description.
-
-Light: inside the car at night, every window covered by packed snow; only the small dome light is on, a soft warm gold circle (never glowing). Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 102
+Image 45
 Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
 
-Image 102. (This number is only for my ordering; never draw it.)
+Image 45. (This number is only for my ordering; never draw it.)
 
 Use the 1 sheet linked above (open each one): (1) Ash in his mustard yellow puffer jacket. Draw Ash EXACTLY like the sheet; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: A close-up of Ash's face: his eyes go wide as he understands; worried and alert.
+SCENE: Outside at night: Ash has turned around, scared, his eyes wide; all around him only blowing snow, gray-white and dark; no car, no road, nothing.
 
-POSE: A close-up: only his head and the top of his shoulders are in the picture; no hands are visible.
+POSE: Both arms are held a little away from his sides, both hands open, in fear. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
-Light: inside the car at night, every window covered by packed snow; only the small dome light is on, a soft warm gold circle (never glowing). Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep soft shadows; cold and lonely. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
 ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
 
 ============================================================
-Image 108
+Image 46
 Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
-Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
-Sheet (4) = sheet 10, a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy): https://amir4332.github.io/p/v3/sheets/sheet-10.jpg
 
-Image 108. (This number is only for my ordering; never draw it.)
+Image 46. (This number is only for my ordering; never draw it.)
 
-Use the 4 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) the objects of my story; (4) a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy). Draw Ash, the inside of the car, the objects and the seat layout EXACTLY like the sheets; the sheets only show how things look: the pose and the action come from this description, and the camera from the seat-layout picture.
+Use the 1 sheet linked above (open each one): (1) Ash in his mustard yellow puffer jacket. Draw Ash EXACTLY like the sheet; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Inside the car: Ash holds the phone against his chest with both hands, eyes closed, grateful and relieved; the dome light off.
+SCENE: A wide view: tiny Ash alone in the middle of a swirling gray-white blizzard at night, with nothing around him; one arm held out in front of him.
 
-POSE: Both of his hands hold the phone flat against his chest; his eyes are closed. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
+POSE: His RIGHT arm is held straight out in front of him, the hand open, feeling the air; his LEFT arm hangs at his side. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
-
-SEAT LAYOUT AND CAMERA: copy them EXACTLY from the attached seat-layout picture (Ash in the driver's seat, seen from the passenger seat): the camera sits in the passenger seat and looks LEFT at Ash; the windshield and the dashboard are on the RIGHT of the picture; Ash sits in the driver's seat facing right, the steering wheel DIRECTLY in front of his chest and face, the key and the gear stick below it; the back of his own seat with its headrest is right behind him, the driver's side window behind him, and the back seat further left. NEVER the steering wheel beside him or in the middle of the car, never Ash on the back seat. From that picture take ONLY the seats, the steering wheel position and the camera; Ash's pose, hands, face, the light and what the windows show come from this description.
-
-From the objects sheet, draw ONLY the objects this description names, each exactly like the sheet. NOTHING else from that sheet lies on the seats, the dashboard or the ground.
-
-Light: inside the car at night, every window covered by packed snow, pale gray-blue and very dim; his breath makes small white clouds. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep soft shadows; cold and lonely. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
 ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
 
 ============================================================
-Image 109
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
-Sheet (3) = sheet 10, a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy): https://amir4332.github.io/p/v3/sheets/sheet-10.jpg
-
-Image 109. (This number is only for my ordering; never draw it.)
-
-Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy). Draw Ash, the inside of the car and the seat layout EXACTLY like the sheets; the sheets only show how things look: the pose and the action come from this description, and the camera from the seat-layout picture.
-
-SCENE: Inside the dark car: Ash lifts his head and listens; everything is silent.
-
-POSE: Both of his hands rest on the steering wheel; he lifts his head, listening. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
-
-SEAT LAYOUT AND CAMERA: copy them EXACTLY from the attached seat-layout picture (Ash in the driver's seat, seen from the passenger seat): the camera sits in the passenger seat and looks LEFT at Ash; the windshield and the dashboard are on the RIGHT of the picture; Ash sits in the driver's seat facing right, the steering wheel DIRECTLY in front of his chest and face, the key and the gear stick below it; the back of his own seat with its headrest is right behind him, the driver's side window behind him, and the back seat further left. NEVER the steering wheel beside him or in the middle of the car, never Ash on the back seat. From that picture take ONLY the seats, the steering wheel position and the camera; Ash's pose, hands, face, the light and what the windows show come from this description.
-
-Light: inside the car at night, every window covered by packed snow, pale gray-blue and very dim; his breath makes small white clouds. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 110
+Image 104
 Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
 Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
 Sheet (3) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
 
-Image 110. (This number is only for my ordering; never draw it.)
+Image 104. (This number is only for my ordering; never draw it.)
 
 Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night. Draw Ash, the car and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Outside: Ash pushes the driver's door open against heavy snow and looks up; the night is clear and calm.
+SCENE: Outside at night: Ash pushes the driver's door open against the snow; cold air and snow rush at his face; he breathes in deeply.
 
-POSE: His LEFT hand pushes the door open against the snow; his RIGHT hand holds the door frame; he looks up at the sky. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. He sits sideways in the open doorway: one leg still inside the car, the other foot down on the snow outside; each leg is one thin black line from the hip to one white sneaker, never crossed or tangled.
+POSE: His LEFT hand pushes the driver's door open against the snow; his RIGHT hand holds the door frame; he leans out, breathing in. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. He sits sideways in the open doorway: one leg still inside the car, the other foot down on the snow outside; each leg is one thin black line from the hip to one white sneaker, never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
-The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. (The snow sheet shows four moments of the night; follow the snow height written here.)
+The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, flapping in the wind. (The snow sheet shows four moments of the night; follow the snow height written here.)
 
-Light: a clear, calm night after the storm: a navy sky full of small soft stars (never glowing), no wind and no falling snow; the snow pale blue. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep soft shadows; cold and lonely. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
 ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
 
 ============================================================
-Image 112
+Image 105
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+
+Image 105. (This number is only for my ordering; never draw it.)
+
+Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) how the snow buries the car during the night. Draw Ash and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
+
+SCENE: Outside at night beside the buried car: Ash stands in the trench, bent over with his hands on his knees, breathing the fresh cold air.
+
+POSE: He stands bent forward, BOTH hands resting on his knees. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards.
+
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
+
+Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
+
+The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, flapping in the wind. (The snow sheet shows four moments of the night; follow the snow height written here.)
+
+Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep soft shadows; cold and lonely. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+
+Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
+
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 106
 Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
 Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
 Sheet (3) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+Sheet (4) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
 
-Image 112. (This number is only for my ordering; never draw it.)
+Image 106. (This number is only for my ordering; never draw it.)
 
-Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night. Draw Ash, the car and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
+Use the 4 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night; (4) the objects of my story. Draw Ash, the car, the snow on the car and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: Outside under the stars: Ash digs his way through the snow along the side of the buried car to its front.
+SCENE: Outside at night: Ash shines the flashlight at the back of the buried car; the beam shows only smooth fresh snow where the exhaust pipe should be.
 
-POSE: He pushes the snow aside with BOTH hands in front of him, along the side of the car. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. He kneels on ONE knee: one knee and shin rest on the snow, the other foot stands flat on the snow in front; his two legs are separate thin black lines, each from the hip to one white sneaker, never crossed, tangled or bent backwards.
+POSE: His RIGHT hand points the flashlight at the back of the car; his LEFT arm hangs at his side. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. (The snow sheet shows four moments of the night; follow the snow height written here.)
-
-Light: a clear, calm night after the storm: a navy sky full of small soft stars (never glowing), no wind and no falling snow; the snow pale blue. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 114
-Sheet (1) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
-Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
-Sheet (3) = sheet 4, the bend in the mountain road: https://amir4332.github.io/p/v3/sheets/sheet-04.jpg
-
-Image 114. (This number is only for my ordering; never draw it.)
-
-Use the 3 sheets linked above (open each one): (1) how the snow buries the car during the night; (2) his car, a small teal blue hatchback; (3) the bend in the mountain road. Draw the snow on the car, the car and the mountain road EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
-
-SCENE: A wide view under the stars: the car buried to its roof at the bend, its hood raised, the red scarf hanging still on the antenna, a soft warm light inside.
-
-The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. The car's hood is raised (open), with a little snow on it. (The snow sheet shows four moments of the night; follow the snow height written here.)
-
-The place, exactly like the mountain-road sheet: a bend in a two-lane road high on a forested mountain pass, tall pine trees on the uphill left, a snowbank and a steep slope down to a wide valley on the right, one short green marker post with a small blank plate. NO houses, buildings, town, other cars or people.
-
-Light: a clear, calm night after the storm: a navy sky full of small soft stars (never glowing), no wind and no falling snow; the snow pale blue. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 115
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
-Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
-Sheet (4) = sheet 10, a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy): https://amir4332.github.io/p/v3/sheets/sheet-10.jpg
-
-Image 115. (This number is only for my ordering; never draw it.)
-
-Use the 4 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) the objects of my story; (4) a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy). Draw Ash, the inside of the car, the objects and the seat layout EXACTLY like the sheets; the sheets only show how things look: the pose and the action come from this description, and the camera from the seat-layout picture.
-
-SCENE: Inside the car: Ash eats the last half of the chocolate bar slowly, the empty foil in his other hand.
-
-POSE: His RIGHT hand holds the last piece of chocolate to his mouth; his LEFT hand holds the empty foil. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
-
-SEAT LAYOUT AND CAMERA: copy them EXACTLY from the attached seat-layout picture (Ash in the driver's seat, seen from the passenger seat): the camera sits in the passenger seat and looks LEFT at Ash; the windshield and the dashboard are on the RIGHT of the picture; Ash sits in the driver's seat facing right, the steering wheel DIRECTLY in front of his chest and face, the key and the gear stick below it; the back of his own seat with its headrest is right behind him, the driver's side window behind him, and the back seat further left. NEVER the steering wheel beside him or in the middle of the car, never Ash on the back seat. From that picture take ONLY the seats, the steering wheel position and the camera; Ash's pose, hands, face, the light and what the windows show come from this description.
+The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, flapping in the wind. (The snow sheet shows four moments of the night; follow the snow height written here.)
 
 From the objects sheet, draw ONLY the objects this description names, each exactly like the sheet. NOTHING else from that sheet lies on the seats, the dashboard or the ground.
 
-Light: inside the car at night, every window covered by packed snow, pale gray-blue and very dim; his breath makes small white clouds. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep soft shadows; cold and lonely. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
 ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
 
 ============================================================
-Image 118
+Image 107
 Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
-Sheet (3) = sheet 10, a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy): https://amir4332.github.io/p/v3/sheets/sheet-10.jpg
-
-Image 118. (This number is only for my ordering; never draw it.)
-
-Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy). Draw Ash, the inside of the car and the seat layout EXACTLY like the sheets; the sheets only show how things look: the pose and the action come from this description, and the camera from the seat-layout picture.
-
-SCENE: Inside the car, the driver's door open a little to the starry night: Ash rubs his hands together and moves his arms, his breath in white clouds, waiting.
-
-POSE: His two hands rub together in front of his chest. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
-
-SEAT LAYOUT AND CAMERA: copy them EXACTLY from the attached seat-layout picture (Ash in the driver's seat, seen from the passenger seat): the camera sits in the passenger seat and looks LEFT at Ash; the windshield and the dashboard are on the RIGHT of the picture; Ash sits in the driver's seat facing right, the steering wheel DIRECTLY in front of his chest and face, the key and the gear stick below it; the back of his own seat with its headrest is right behind him, the driver's side window behind him, and the back seat further left. NEVER the steering wheel beside him or in the middle of the car, never Ash on the back seat. From that picture take ONLY the seats, the steering wheel position and the camera; Ash's pose, hands, face, the light and what the windows show come from this description.
-
-Light: inside the car at night, every window covered by packed snow, pale gray-blue and very dim; his breath makes small white clouds. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 120
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
-Sheet (3) = sheet 10, a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy): https://amir4332.github.io/p/v3/sheets/sheet-10.jpg
-
-Image 120. (This number is only for my ordering; never draw it.)
-
-Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car; (3) a picture of Ash in the driver's seat seen from the passenger seat (the seat layout and camera to copy). Draw Ash, the inside of the car and the seat layout EXACTLY like the sheets; the sheets only show how things look: the pose and the action come from this description, and the camera from the seat-layout picture.
-
-SCENE: Inside the car at dawn: the car is still buried and NOT moving; every window is covered with packed white snow, and only a small cleared patch of the windshield shows a pale pink sky; Ash sits in the driver's seat and lifts his head sharply, listening, hope in his eyes. He is NOT driving.
-
-POSE: Both of his hands rest on his thighs; he lifts his head sharply. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
-
-SEAT LAYOUT AND CAMERA: copy them EXACTLY from the attached seat-layout picture (Ash in the driver's seat, seen from the passenger seat): the camera sits in the passenger seat and looks LEFT at Ash; the windshield and the dashboard are on the RIGHT of the picture; Ash sits in the driver's seat facing right, the steering wheel DIRECTLY in front of his chest and face, the key and the gear stick below it; the back of his own seat with its headrest is right behind him, the driver's side window behind him, and the back seat further left. NEVER the steering wheel beside him or in the middle of the car, never Ash on the back seat. From that picture take ONLY the seats, the steering wheel position and the camera; Ash's pose, hands, face, the light and what the windows show come from this description.
-
-Light: dawn after the storm: a clear pink and pale gold sky, calm, deep fresh snow softly pink; no falling snow. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 124
-Sheet (1) = sheet 8, the snowplow, its driver, the paramedic and Ash's sister: https://amir4332.github.io/p/v3/sheets/sheet-08.jpg
-Sheet (2) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
 Sheet (3) = sheet 6, how the snow buries the car during the night: https://amir4332.github.io/p/v3/sheets/sheet-06.jpg
+Sheet (4) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
 
-Image 124. (This number is only for my ordering; never draw it.)
+Image 107. (This number is only for my ordering; never draw it.)
 
-Use the 3 sheets linked above (open each one): (1) the snowplow, its driver, the paramedic and Ash's sister; (2) Ash in his mustard yellow puffer jacket; (3) how the snow buries the car during the night. Draw the snowplow and the people, Ash and the snow on the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
+Use the 4 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback; (3) how the snow buries the car during the night; (4) the objects of my story. Draw Ash, the car, the snow on the car and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-SCENE: At dawn: the snowplow driver points at the red scarf on the antenna and smiles; Ash looks at it too.
+SCENE: Outside at night: Ash digs fast at the back of the buried car with the blue ice scraper until the small round exhaust pipe shows again.
 
-POSE: The driver's RIGHT arm points up at the red scarf; his LEFT arm hangs at his side. Ash looks up at the scarf, both of his arms at his sides. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards. Every other person's two arms and two legs are also clearly visible thin black lines, each arm ending in one hand, each leg ending in one white sneaker, never crossed or tangled.
+POSE: His RIGHT hand digs fast with the blue ice scraper; his LEFT hand pushes snow aside. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. He kneels on ONE knee: one knee and shin rest on the snow, the other foot stands flat on the snow in front; his two legs are separate thin black lines, each from the hip to one white sneaker, never crossed, tangled or bent backwards.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
+
+Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
+
+The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). (The snow sheet shows four moments of the night; follow the snow height written here.)
+
+From the objects sheet, draw ONLY the objects this description names, each exactly like the sheet. NOTHING else from that sheet lies on the seats, the dashboard or the ground.
+
+Light: a dark slate gray-blue night in a snowstorm, snow blowing sideways, deep soft shadows; cold and lonely. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+
+Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
+
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 113
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 5, his car, a small teal blue hatchback: https://amir4332.github.io/p/v3/sheets/sheet-05.jpg
+
+Image 113. (This number is only for my ordering; never draw it.)
+
+Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) his car, a small teal blue hatchback. Draw Ash and the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
+
+SCENE: Outside under the stars: Ash lifts the car's hood and props it open; snow slides off it.
+
+POSE: Both of his hands lift the front edge of the car's hood. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards.
+
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
+
+Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
+
+The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. The car's hood is raised (open), with a little snow on it.
+
+Light: a clear, calm night after the storm: a navy sky full of small soft stars (never glowing), no wind and no falling snow; the snow pale blue. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+
+Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
+
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 125
+Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (2) = sheet 8, the snowplow, its driver, the paramedic and Ash's sister: https://amir4332.github.io/p/v3/sheets/sheet-08.jpg
+Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 125. (This number is only for my ordering; never draw it.)
+
+Use the 3 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the snowplow, its driver, the paramedic and Ash's sister; (3) the objects of my story. Draw Ash, the snowplow and the people and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
+
+SCENE: At dawn beside the orange snowplow: Ash, with the soft gray blanket around his shoulders over his jacket, holds a white paper cup with a little steam in both hands; the driver stands next to him.
+
+POSE: Ash holds the white paper cup with BOTH hands in front of his chest; the gray blanket hangs from his shoulders down his back like a cape, never across his arms or legs. The driver stands beside him, his RIGHT hand on Ash's shoulder, his LEFT arm at his side. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards. Every other person's two arms and two legs are also clearly visible thin black lines, each arm ending in one hand, each leg ending in one white sneaker, never crossed or tangled.
+
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
 
 The snowplow driver, exactly like his sheet: a pure stick figure (pure white round head, single thin black line body, arms and legs, white sneakers) with only a dark green knit cap with a pom-pom and a short gray mustache; small black dot eyes, NO glasses; no clothes.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
-The car, exactly like the car sheet: a small, rounded five-door hatchback in soft muted teal blue, a thin black rod antenna on the roof near the back, ONE small round exhaust pipe under the rear bumper on the LEFT, a blank license plate; new and undamaged, no logos. It is the ONLY car. Where it is: sunk in snow up to its roof: only the roof, the top of the windows and the antenna show above the snow; a short narrow dug path along its left side; the road is buried under deep, smooth snow (no asphalt, no lane lines). A bright red knitted scarf is tied to the antenna, hanging still. The car's hood is raised (open), with a little snow on it. (The snow sheet shows four moments of the night; follow the snow height written here.)
-
 The snowplow, exactly like its sheet: a big boxy soft orange truck with a large dark gray angled plow blade in front and two round amber lights on the cab roof (soft, never glowing); no text or logos.
 
 From the snowplow-and-people sheet, draw ONLY the snowplow and the snowplow driver. NOT in this picture: the paramedic, Ash's sister.
 
-Light: dawn after the storm: a clear pink and pale gold sky, calm, deep fresh snow softly pink; no falling snow. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
-
-============================================================
-Image 126
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 8, the snowplow, its driver, the paramedic and Ash's sister: https://amir4332.github.io/p/v3/sheets/sheet-08.jpg
-
-Image 126. (This number is only for my ordering; never draw it.)
-
-Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the snowplow, its driver, the paramedic and Ash's sister. Draw Ash and the snowplow and the people EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
-
-SCENE: At dawn beside the snowplow: the paramedic, his small orange bag on the snow, gently checks Ash, who sits on the snowplow's step with the gray blanket around his shoulders.
-
-POSE: Ash's hands rest on his knees; the gray blanket hangs from his shoulders down his back like a cape. The paramedic stands in front of him: his RIGHT hand gently touches Ash's forehead, his LEFT arm hangs at his side; his orange bag stands on the snow. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. He sits on the snowplow's low metal step: his two legs bend at the knees, each shin going down to one white sneaker on the snow, side by side, never crossed or tangled. Every other person's two arms and two legs are also clearly visible thin black lines, each arm ending in one hand, each leg ending in one white sneaker, never crossed or tangled.
-
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
-
-The paramedic: a pure stick figure with only a plain dark blue cap and short straight black hair, small black dot eyes, NO glasses, holding a small plain orange bag with no symbols; no clothes.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
-
-The snowplow, exactly like its sheet: a big boxy soft orange truck with a large dark gray angled plow blade in front and two round amber lights on the cab roof (soft, never glowing); no text or logos.
-
-From the snowplow-and-people sheet, draw ONLY the snowplow and the paramedic. NOT in this picture: the snowplow driver, Ash's sister.
+From the objects sheet, draw ONLY the objects this description names, each exactly like the sheet. NOTHING else from that sheet lies on the seats, the dashboard or the ground.
 
 Light: dawn after the storm: a clear pink and pale gold sky, calm, deep fresh snow softly pink; no falling snow. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
 
@@ -418,27 +213,89 @@ Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean 
 ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
 
 ============================================================
-Image 135
-Sheet (1) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
-Sheet (2) = sheet 3, the inside of his car: https://amir4332.github.io/p/v3/sheets/sheet-03.jpg
+Image 128
+Sheet (1) = sheet 8, the snowplow, its driver, the paramedic and Ash's sister: https://amir4332.github.io/p/v3/sheets/sheet-08.jpg
+Sheet (2) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
 
-Image 135. (This number is only for my ordering; never draw it.)
+Image 128. (This number is only for my ordering; never draw it.)
 
-Use the 2 sheets linked above (open each one): (1) Ash in his mustard yellow puffer jacket; (2) the inside of his car. Draw Ash and the inside of the car EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
+Use the 2 sheets linked above (open each one): (1) the snowplow, its driver, the paramedic and Ash's sister; (2) Ash in his mustard yellow puffer jacket. Draw the snowplow and the people and Ash EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
 
-THUMBNAIL: A big close-up of Ash shivering in the driver's seat, arms wrapped around himself, white breath in front of his face, frost on the window behind him; the top of the picture is plain dark blue (empty, for my words).
+SCENE: Early evening at the front door of a small, cozy house: the door opens and Ash's sister stands in the warm light; Ash in his jacket stands on the doorstep.
 
-POSE: His two arms are folded across his chest, each hand holding the opposite upper arm. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. In the seat, his two legs are separate thin black lines: each thigh goes forward along the seat to the knee and each shin goes down to one white sneaker on the floor; never crossed or tangled.
+POSE: The sister holds the door handle with her LEFT hand; her RIGHT arm hangs at her side. Ash stands on the doorstep, both of his arms at his sides. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards. Every other person's two arms and two legs are also clearly visible thin black lines, each arm ending in one hand, each leg ending in one white sneaker, never crossed or tangled.
 
-Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves. He sits in the driver's seat exactly like his sheet: the jacket's knit band rests on the seat, and each leg is one thin black line, the thigh forward along the seat and the shin down to the sneaker; NO pants.
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
+
+Ash's sister: a pure stick figure, a little shorter than Ash, with long brown hair in a low ponytail, small black dot eyes, NO glasses; no clothes.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
 
-The inside of the car, exactly like the inside sheet: dark gray fabric seats, a light gray dashboard, a dark gray steering wheel, one round fuel gauge with only tick marks, a small red zone and one orange needle, two round heater vents, a small radio with a blank screen, the key in the ignition, a small round dome light on the ceiling, teal door panels. SEATS (they were drawn in wrong places before): the car is left-hand drive; two front seats side by side, the driver's seat with the steering wheel on the car's LEFT and the passenger seat on its RIGHT, and one back bench seat behind them; the steering wheel is always directly in front of the driver's chest, never beside him; Ash always sits IN the driver's seat, never on the passenger seat; no seat is missing, doubled, turned around or floating. Unless the description names another view, the camera sits in the passenger seat looking LEFT at the driver's seat: the windshield and dashboard on the RIGHT of the picture, the steering wheel directly in front of the driver's seat.
+From the snowplow-and-people sheet, draw ONLY Ash's sister. NOT in this picture: the snowplow, the snowplow driver, the paramedic.
 
-Light: inside the car at night, every window covered by packed snow; only the small dome light is on, a soft warm gold circle (never glowing). Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+Light: early evening: warm soft ochre light from an open front door, blue dusk outside, a little old snow on the ground. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
 
 Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
 
-ONE single picture, never a grid of panels. No text, letters or numbers anywhere (I add the words myself). No wounds or blood. A wide 16:9 YouTube thumbnail: one big, simple subject that reads at a glance on a phone, strong contrast, and the empty area I named kept plain. Make the image now, without asking questions.
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 129
+Sheet (1) = sheet 8, the snowplow, its driver, the paramedic and Ash's sister: https://amir4332.github.io/p/v3/sheets/sheet-08.jpg
+Sheet (2) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 129. (This number is only for my ordering; never draw it.)
+
+Use the 3 sheets linked above (open each one): (1) the snowplow, its driver, the paramedic and Ash's sister; (2) Ash in his mustard yellow puffer jacket; (3) the objects of my story. Draw the snowplow and the people, Ash and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
+
+SCENE: At the open front door: Ash holds out the red knitted scarf, a little crushed; his sister reaches for it with a surprised smile.
+
+POSE: Ash holds out the red scarf with BOTH hands; his sister reaches for it with her RIGHT hand, her LEFT arm at her side. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards. Every other person's two arms and two legs are also clearly visible thin black lines, each arm ending in one hand, each leg ending in one white sneaker, never crossed or tangled.
+
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
+
+Ash's sister: a pure stick figure, a little shorter than Ash, with long brown hair in a low ponytail, small black dot eyes, NO glasses; no clothes.
+
+Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
+
+From the snowplow-and-people sheet, draw ONLY Ash's sister. NOT in this picture: the snowplow, the snowplow driver, the paramedic.
+
+From the objects sheet, draw ONLY the objects this description names, each exactly like the sheet. NOTHING else from that sheet lies on the seats, the dashboard or the ground.
+
+Light: early evening: warm soft ochre light from an open front door, blue dusk outside, a little old snow on the ground. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+
+Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
+
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
+
+============================================================
+Image 130
+Sheet (1) = sheet 8, the snowplow, its driver, the paramedic and Ash's sister: https://amir4332.github.io/p/v3/sheets/sheet-08.jpg
+Sheet (2) = sheet 2, Ash in his mustard yellow puffer jacket: https://amir4332.github.io/p/v3/sheets/sheet-02.jpg
+Sheet (3) = sheet 9, the objects of my story: https://amir4332.github.io/p/v3/sheets/sheet-09.jpg
+
+Image 130. (This number is only for my ordering; never draw it.)
+
+Use the 3 sheets linked above (open each one): (1) the snowplow, its driver, the paramedic and Ash's sister; (2) Ash in his mustard yellow puffer jacket; (3) the objects of my story. Draw the snowplow and the people, Ash and the objects EXACTLY like the sheets; the sheets only show how things look: the pose, the action and the camera come from this description.
+
+SCENE: At the open front door: Ash's sister holds the red scarf against her chest with both hands, smiling; Ash smiles at her, tired and happy.
+
+POSE: His sister holds the red scarf against her chest with BOTH hands; Ash stands smiling, both of his arms at his sides. Both of his arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the ground, never crossed, tangled or bent backwards. Every other person's two arms and two legs are also clearly visible thin black lines, each arm ending in one hand, each leg ending in one white sneaker, never crossed or tangled.
+
+Ash: a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; HAIR EXACTLY like his sheet: a soft, rounded, fluffy mop of thick dark brown-black hair made of gently wavy tufts that hug the top and sides of his head like a messy cap; the fringe falls in a few soft wavy locks that stop just above his glasses; NOT spiky: no sharp points, nothing standing straight up, never a big wild bush, the same size in every picture; round thin-framed glasses with small black dot eyes always visible, both looking the same way; short thick eyebrows; a simple line mouth; a few stubble dots; neck, arms and legs are single thin black lines; small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. GLASSES AND FACE (they went wrong before): the two round lenses sit side by side ON the front of his face, joined by a short bridge, one small black dot eye behind each lens; in a side view only the near lens shows, with one eye; never a lens floating outside his head, never a third eye. A simple, calm cartoon face: short eyebrows, a small line mouth; the expression comes from the description and is never twisted or ugly. He wears ONLY his short mustard yellow puffer jacket, exactly as on his sheet (matte, quilted, high collar, zipper, dark gray knit band at the waist and cuffs, ending at the waist, no hood). NO pants, trousers or shorts: below the jacket his legs are two thin black lines. No scarf, hat or gloves.
+
+Ash's sister: a pure stick figure, a little shorter than Ash, with long brown hair in a low ponytail, small black dot eyes, NO glasses; no clothes.
+
+Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); nothing cuts across their bodies.
+
+From the snowplow-and-people sheet, draw ONLY Ash's sister. NOT in this picture: the snowplow, the snowplow driver, the paramedic.
+
+From the objects sheet, draw ONLY the objects this description names, each exactly like the sheet. NOTHING else from that sheet lies on the seats, the dashboard or the ground.
+
+Light: early evening: warm soft ochre light from an open front door, blue dusk outside, a little old snow on the ground. Everything is new and in good condition unless this description says otherwise: no rust, dents, stains or grime.
+
+Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, few details, smooth soft MATTE shading, soft slightly muted colors. NOT glossy or shiny, NOT 3D, NOT a photo, NOT anime; no glow, bloom, lens flare, neon or grain.
+
+ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere (blank license plate, blank screens and signs, dials with only tick marks). No weapons, wounds or blood. Wide 16:9, the main subject in the middle, nothing important near the top or bottom edge. Make the image now, without asking questions.
 
