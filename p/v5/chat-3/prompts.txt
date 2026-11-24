@@ -1,4 +1,4 @@
-IMAGE PROMPTS · chat-3 · 25 images: 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74
+IMAGE PROMPTS · chat-3 · 23 images: 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74
 
 How to use this page (for ChatGPT): the images are numbered, and the sheets are ALSO attached as images in this chat (your browser cannot open the sheet links, so always use the attached sheets: each image below says which sheet numbers it needs). Make exactly ONE image per reply: find the next image below, look carefully at its attached sheets, check its prompt against them (outfit, number of people, what lies on the ground, the plane’s colours), then draw exactly what its prompt says. Never put several images or a grid in one picture, and never invent other scenes. After each image, stop; when I write “next”, make the next image in order. Wide 16:9, never any text or the image number in the picture. When every image on this page is done and I ask for it, put them all in ONE zip file named after this page (for example remake-1.zip), each image named by its number with three digits (065.png, 067.png …), and give me the download link.
 
@@ -10,7 +10,7 @@ Sheet (3) = sheet 4, the six-story brick building, the fifth-floor hallway, the 
 
 Image 50. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 4 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 4 = the six-story brick building, the fifth-floor hallway, the stairwell and the lobby). Draw Ash and the building EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -40,13 +40,13 @@ Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir
 
 Image 51. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 3 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views). Draw Ash and Ash's apartment EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
 SCENE: Ash stands in the middle of his dim, hot apartment at dusk, wiping his forehead; a faint, soft heat shimmer rises from the walls.
 
-CAMERA (never change it): exactly the camera of panels 1–3 of the apartment sheet: at eye level just inside the front door, looking straight at the window wall. The furniture stays EXACTLY where that sheet shows it: the bed in the lower LEFT with its pillow against the left wall, the round table with its one chair in the middle, the white fridge and the kitchen corner along the RIGHT wall, the window in the middle of the back wall. Never another angle; never move, add or remove furniture.
+CAMERA (never change it): exactly the camera of panels 1–3 of the apartment sheet: at eye level just inside the front door, looking straight at the window wall. The furniture stays EXACTLY where that sheet shows it: the bed along the LEFT wall with its headboard and pillow at the BACK by the window wall and its foot toward us, the round table with its one chair in the middle, the white fridge and the kitchen corner along the RIGHT wall, the window in the middle of the back wall. Never another angle; never move, add or remove furniture.
 
 POSE: His RIGHT hand wipes his forehead with the back of the hand; his LEFT arm hangs at his side. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the floor, never crossed, tangled or bent backwards.
 
@@ -54,7 +54,7 @@ Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master shee
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are fully DOWN with the slats closed.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are fully DOWN with the slats closed.
 
 Late dusk during the power cut: a deep orange-violet sky fading to blue, the room dim, no lamps on. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -69,7 +69,7 @@ Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a s
 
 Image 52. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat)). Draw Ash EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -91,28 +91,28 @@ ONE single picture, never a grid of panels like the sheets. No text, letters or 
 Image 53
 Sheet (1) = sheet 1, Ash with NO clothes (his master sheet): https://amir4332.github.io/p/v5/sheets/sheet-01.jpg
 Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a straw sun hat): https://amir4332.github.io/p/v5/sheets/sheet-02.jpg
-Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir4332.github.io/p/v5/sheets/sheet-03.jpg
+Sheet (3) = sheet 9, the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end: https://amir4332.github.io/p/v5/sheets/sheet-09.jpg
 Sheet (4) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sheets/sheet-08.jpg
 
 Image 53. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
-Use the attached sheets 1, 2, 3, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views; sheet 8 = the objects of my story). Draw Ash, Ash's apartment and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
+Use the attached sheets 1, 2, 9, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 9 = the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end; sheet 8 = the objects of my story). Draw Ash, the bed view and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
 From the objects sheet, draw ONLY the objects this description names; nothing else from that sheet appears in the picture.
 
 SCENE: Ash lies on his back on the bed in the dim room with a wet light blue cloth on his forehead.
 
-CAMERA FOR THE BED (the same in every bed picture): from the same direction as panel 1 of the apartment sheet, but close to the bed: the bed runs across the picture from left to right, its pillow at the LEFT end against the left wall, exactly like the first drawing of sheet 2; behind the bed is the cream wall with the lower left corner of the big window. The little fan, when it is there, is clipped to the bed frame at the head end, next to the pillow, as on the objects sheet.
+CAMERA FOR THE BED (the same in every bed picture): copy it EXACTLY from sheet 9, the bed view: the camera stands in the middle of the room and looks at the LEFT wall, so the bed runs across the picture with its headboard and pillow at the RIGHT end and its foot at the LEFT end; the plain cream wall behind it; only the left edge of the big window at the far right; the little fan, when it is there, clipped to the headboard next to the pillow. Never mirror or turn the bed.
 
-POSE: His RIGHT hand holds the wet cloth on his forehead; his LEFT arm lies along his side on the sheet. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. Lying on his back EXACTLY like the first drawing of sheet 2, seen from the side: his head on the pillow at the LEFT end of the bed, his body ONE straight thin line from the neck to ONE hip point; from that point his two legs: one lies straight along the bed, the other has its knee raised; each leg is ONE thin line ending in one white sneaker; never a third leg or an extra arm.
+POSE: His RIGHT hand holds the wet cloth on his forehead; his LEFT arm lies on the mattress beside his body, a little apart from it, ending in one hand. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. Lying on his back EXACTLY like on sheet 9: seen from the side, his head on the pillow at the RIGHT end of the bed, facing up; his body ONE straight thin line from the neck going LEFT along the mattress to ONE hip point; from that point his two legs go left: the near leg straight along the mattress, the far leg with its knee raised; each leg ONE thin line ending in one white sneaker; never a third leg or an extra arm.
 
 Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master sheet (pick the closest face from its row of faces; never change or add features): a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; hair EXACTLY like his sheet: a soft, rounded, fluffy mop of dark brown-black hair in gently wavy tufts that hug his head like a messy cap, the fringe stopping just above his glasses (NOT spiky, nothing standing straight up, never a big wild bush); round thin-framed glasses: two equal round lenses side by side ON his face, each with exactly ONE small black dot eye (a lens never sits outside his head); NO nose; short thick eyebrows; a simple line mouth; a few stubble dots; a simple, calm face, never twisted or ugly; his neck, body, arms and legs are each ONE single thin black line (never two parallel lines, a tube or a box); small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. It is hot: he wears NO clothes and NO hat (no shirt, pants, shorts or underwear), only his white sneakers; his body, arms and legs are single thin black lines.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are fully DOWN with the slats closed.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are fully DOWN with the slats closed.
 
 Late dusk during the power cut: a deep orange-violet sky fading to blue, the room dim, no lamps on. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -128,7 +128,7 @@ Sheet (3) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sh
 
 Image 54. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 8 = the objects of my story). Draw Ash and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -156,7 +156,7 @@ Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir
 
 Image 55. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 3 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views). Draw Ash and Ash's apartment EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -170,7 +170,7 @@ Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master shee
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN.
 
 Night during the power cut: deep navy darkness, soft blue moonlight through the window, NO lights anywhere in the city outside (no lit windows), many stars; the only warm light is a small flashlight pool where the description says. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -186,7 +186,7 @@ Sheet (3) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sh
 
 Image 56. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 8 = the objects of my story). Draw Ash and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -194,7 +194,7 @@ From the objects sheet, draw ONLY the objects this description names; nothing el
 
 SCENE: In the dark room, Ash holds up the little fan and looks at it; moonlight on him.
 
-CAMERA (never change it): exactly the camera of panels 1–3 of the apartment sheet: at eye level just inside the front door, looking straight at the window wall. The furniture stays EXACTLY where that sheet shows it: the bed in the lower LEFT with its pillow against the left wall, the round table with its one chair in the middle, the white fridge and the kitchen corner along the RIGHT wall, the window in the middle of the back wall. Never another angle; never move, add or remove furniture.
+CAMERA (never change it): exactly the camera of panels 1–3 of the apartment sheet: at eye level just inside the front door, looking straight at the window wall. The furniture stays EXACTLY where that sheet shows it: the bed along the LEFT wall with its headboard and pillow at the BACK by the window wall and its foot toward us, the round table with its one chair in the middle, the white fridge and the kitchen corner along the RIGHT wall, the window in the middle of the back wall. Never another angle; never move, add or remove furniture.
 
 POSE: His RIGHT hand holds the little fan up in front of his face; his LEFT arm hangs at his side. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the floor, never crossed, tangled or bent backwards.
 
@@ -214,20 +214,20 @@ ONE single picture, never a grid of panels like the sheets. No text, letters or 
 Image 57
 Sheet (1) = sheet 1, Ash with NO clothes (his master sheet): https://amir4332.github.io/p/v5/sheets/sheet-01.jpg
 Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a straw sun hat): https://amir4332.github.io/p/v5/sheets/sheet-02.jpg
-Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir4332.github.io/p/v5/sheets/sheet-03.jpg
+Sheet (3) = sheet 9, the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end: https://amir4332.github.io/p/v5/sheets/sheet-09.jpg
 Sheet (4) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sheets/sheet-08.jpg
 
 Image 57. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
-Use the attached sheets 1, 2, 3, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views; sheet 8 = the objects of my story). Draw Ash, Ash's apartment and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
+Use the attached sheets 1, 2, 9, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 9 = the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end; sheet 8 = the objects of my story). Draw Ash, the bed view and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
 From the objects sheet, draw ONLY the objects this description names; nothing else from that sheet appears in the picture.
 
 SCENE: Ash kneels beside his bed in the dark and clips the little fan onto the wooden bed frame, turned toward the pillow.
 
-CAMERA FOR THE BED (the same in every bed picture): from the same direction as panel 1 of the apartment sheet, but close to the bed: the bed runs across the picture from left to right, its pillow at the LEFT end against the left wall, exactly like the first drawing of sheet 2; behind the bed is the cream wall with the lower left corner of the big window. The little fan, when it is there, is clipped to the bed frame at the head end, next to the pillow, as on the objects sheet.
+CAMERA FOR THE BED (the same in every bed picture): copy it EXACTLY from sheet 9, the bed view: the camera stands in the middle of the room and looks at the LEFT wall, so the bed runs across the picture with its headboard and pillow at the RIGHT end and its foot at the LEFT end; the plain cream wall behind it; only the left edge of the big window at the far right; the little fan, when it is there, clipped to the headboard next to the pillow. Never mirror or turn the bed.
 
 POSE: Both of his hands hold the fan's clip on the wooden bed frame. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. Kneeling on ONE knee: one knee and shin rest on the floor, the other foot stands flat in front; his two legs are separate thin black lines, each from the hip to one white sneaker, never crossed, tangled or bent backwards.
 
@@ -235,7 +235,7 @@ Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master shee
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
 
 Night during the power cut: deep navy darkness, soft blue moonlight through the window, NO lights anywhere in the city outside (no lit windows), many stars; the only warm light is a small flashlight pool where the description says. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -247,28 +247,28 @@ ONE single picture, never a grid of panels like the sheets. No text, letters or 
 Image 58
 Sheet (1) = sheet 1, Ash with NO clothes (his master sheet): https://amir4332.github.io/p/v5/sheets/sheet-01.jpg
 Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a straw sun hat): https://amir4332.github.io/p/v5/sheets/sheet-02.jpg
-Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir4332.github.io/p/v5/sheets/sheet-03.jpg
+Sheet (3) = sheet 9, the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end: https://amir4332.github.io/p/v5/sheets/sheet-09.jpg
 Sheet (4) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sheets/sheet-08.jpg
 
 Image 58. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
-Use the attached sheets 1, 2, 3, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views; sheet 8 = the objects of my story). Draw Ash, Ash's apartment and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
+Use the attached sheets 1, 2, 9, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 9 = the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end; sheet 8 = the objects of my story). Draw Ash, the bed view and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
 From the objects sheet, draw ONLY the objects this description names; nothing else from that sheet appears in the picture.
 
 SCENE: Ash lies on his back on the bed, content, a small smile, the little fan blowing at his face; the window open to the dark city.
 
-CAMERA FOR THE BED (the same in every bed picture): from the same direction as panel 1 of the apartment sheet, but close to the bed: the bed runs across the picture from left to right, its pillow at the LEFT end against the left wall, exactly like the first drawing of sheet 2; behind the bed is the cream wall with the lower left corner of the big window. The little fan, when it is there, is clipped to the bed frame at the head end, next to the pillow, as on the objects sheet.
+CAMERA FOR THE BED (the same in every bed picture): copy it EXACTLY from sheet 9, the bed view: the camera stands in the middle of the room and looks at the LEFT wall, so the bed runs across the picture with its headboard and pillow at the RIGHT end and its foot at the LEFT end; the plain cream wall behind it; only the left edge of the big window at the far right; the little fan, when it is there, clipped to the headboard next to the pillow. Never mirror or turn the bed.
 
-POSE: His LEFT hand is behind his head on the pillow; his RIGHT hand rests on his chest. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. Lying on his back EXACTLY like the first drawing of sheet 2, seen from the side: his head on the pillow at the LEFT end of the bed, his body ONE straight thin line from the neck to ONE hip point; from that point his two legs: one lies straight along the bed, the other has its knee raised; each leg is ONE thin line ending in one white sneaker; never a third leg or an extra arm.
+POSE: His RIGHT hand rests flat on his chest; his LEFT arm lies on the mattress beside his body, a little apart from it, ending in one hand. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. Lying on his back EXACTLY like on sheet 9: seen from the side, his head on the pillow at the RIGHT end of the bed, facing up; his body ONE straight thin line from the neck going LEFT along the mattress to ONE hip point; from that point his two legs go left: the near leg straight along the mattress, the far leg with its knee raised; each leg ONE thin line ending in one white sneaker; never a third leg or an extra arm.
 
 Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master sheet (pick the closest face from its row of faces; never change or add features): a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; hair EXACTLY like his sheet: a soft, rounded, fluffy mop of dark brown-black hair in gently wavy tufts that hug his head like a messy cap, the fringe stopping just above his glasses (NOT spiky, nothing standing straight up, never a big wild bush); round thin-framed glasses: two equal round lenses side by side ON his face, each with exactly ONE small black dot eye (a lens never sits outside his head); NO nose; short thick eyebrows; a simple line mouth; a few stubble dots; a simple, calm face, never twisted or ugly; his neck, body, arms and legs are each ONE single thin black line (never two parallel lines, a tube or a box); small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. It is hot: he wears NO clothes and NO hat (no shirt, pants, shorts or underwear), only his white sneakers; his body, arms and legs are single thin black lines.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
 
 Night during the power cut: deep navy darkness, soft blue moonlight through the window, NO lights anywhere in the city outside (no lit windows), many stars; the only warm light is a small flashlight pool where the description says. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -283,7 +283,7 @@ Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a s
 
 Image 59. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat)). Draw Ash EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -307,19 +307,20 @@ ONE single picture, never a grid of panels like the sheets. No text, letters or 
 Image 60
 Sheet (1) = sheet 1, Ash with NO clothes (his master sheet): https://amir4332.github.io/p/v5/sheets/sheet-01.jpg
 Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a straw sun hat): https://amir4332.github.io/p/v5/sheets/sheet-02.jpg
-Sheet (3) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sheets/sheet-08.jpg
+Sheet (3) = sheet 9, the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end: https://amir4332.github.io/p/v5/sheets/sheet-09.jpg
+Sheet (4) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sheets/sheet-08.jpg
 
 Image 60. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
-Use the attached sheets 1, 2, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 8 = the objects of my story). Draw Ash and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
+Use the attached sheets 1, 2, 9, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 9 = the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end; sheet 8 = the objects of my story). Draw Ash, the bed view and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
 From the objects sheet, draw ONLY the objects this description names; nothing else from that sheet appears in the picture.
 
 SCENE: A close view: the little fan clipped to the bed frame blows toward Ash's sweaty face on the pillow; the air from it is shown as a few faint orange wavy lines.
 
-CAMERA FOR THE BED (the same in every bed picture): from the same direction as panel 1 of the apartment sheet, but close to the bed: the bed runs across the picture from left to right, its pillow at the LEFT end against the left wall, exactly like the first drawing of sheet 2; behind the bed is the cream wall with the lower left corner of the big window. The little fan, when it is there, is clipped to the bed frame at the head end, next to the pillow, as on the objects sheet.
+CAMERA FOR THE BED (the same in every bed picture): copy it EXACTLY from sheet 9, the bed view: the camera stands in the middle of the room and looks at the LEFT wall, so the bed runs across the picture with its headboard and pillow at the RIGHT end and its foot at the LEFT end; the plain cream wall behind it; only the left edge of the big window at the far right; the little fan, when it is there, clipped to the headboard next to the pillow. Never mirror or turn the bed.
 
 POSE: Only his head on the pillow is in the picture, on the right; no hands or body are visible.
 
@@ -339,88 +340,28 @@ ONE single picture, never a grid of panels like the sheets. No text, letters or 
 Image 61
 Sheet (1) = sheet 1, Ash with NO clothes (his master sheet): https://amir4332.github.io/p/v5/sheets/sheet-01.jpg
 Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a straw sun hat): https://amir4332.github.io/p/v5/sheets/sheet-02.jpg
-Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir4332.github.io/p/v5/sheets/sheet-03.jpg
+Sheet (3) = sheet 9, the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end: https://amir4332.github.io/p/v5/sheets/sheet-09.jpg
 Sheet (4) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sheets/sheet-08.jpg
 
 Image 61. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
-Use the attached sheets 1, 2, 3, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views; sheet 8 = the objects of my story). Draw Ash, Ash's apartment and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
+Use the attached sheets 1, 2, 9, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 9 = the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end; sheet 8 = the objects of my story). Draw Ash, the bed view and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
 From the objects sheet, draw ONLY the objects this description names; nothing else from that sheet appears in the picture.
 
 SCENE: Ash lies on his back on the bed, restless, one hand on his forehead, sweat drops; the fan still blows at him; moonlight.
 
-CAMERA FOR THE BED (the same in every bed picture): from the same direction as panel 1 of the apartment sheet, but close to the bed: the bed runs across the picture from left to right, its pillow at the LEFT end against the left wall, exactly like the first drawing of sheet 2; behind the bed is the cream wall with the lower left corner of the big window. The little fan, when it is there, is clipped to the bed frame at the head end, next to the pillow, as on the objects sheet.
+CAMERA FOR THE BED (the same in every bed picture): copy it EXACTLY from sheet 9, the bed view: the camera stands in the middle of the room and looks at the LEFT wall, so the bed runs across the picture with its headboard and pillow at the RIGHT end and its foot at the LEFT end; the plain cream wall behind it; only the left edge of the big window at the far right; the little fan, when it is there, clipped to the headboard next to the pillow. Never mirror or turn the bed.
 
-POSE: His RIGHT hand lies on his forehead; his LEFT arm lies along his side on the sheet. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. Lying on his back EXACTLY like the first drawing of sheet 2, seen from the side: his head on the pillow at the LEFT end of the bed, his body ONE straight thin line from the neck to ONE hip point; from that point his two legs: one lies straight along the bed, the other has its knee raised; each leg is ONE thin line ending in one white sneaker; never a third leg or an extra arm.
-
-Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master sheet (pick the closest face from its row of faces; never change or add features): a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; hair EXACTLY like his sheet: a soft, rounded, fluffy mop of dark brown-black hair in gently wavy tufts that hug his head like a messy cap, the fringe stopping just above his glasses (NOT spiky, nothing standing straight up, never a big wild bush); round thin-framed glasses: two equal round lenses side by side ON his face, each with exactly ONE small black dot eye (a lens never sits outside his head); NO nose; short thick eyebrows; a simple line mouth; a few stubble dots; a simple, calm face, never twisted or ugly; his neck, body, arms and legs are each ONE single thin black line (never two parallel lines, a tube or a box); small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. It is hot: he wears NO clothes and NO hat (no shirt, pants, shorts or underwear), only his white sneakers; his body, arms and legs are single thin black lines.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
-
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
-
-Night during the power cut: deep navy darkness, soft blue moonlight through the window, NO lights anywhere in the city outside (no lit windows), many stars; the only warm light is a small flashlight pool where the description says. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, smooth soft MATTE shading, soft muted colors. NOT glossy, NOT 3D, NOT a photo, NOT anime; no glow, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere: papers and screens are blank, and the radio dial has only tick marks. No weapons, wounds or blood. Wide 16:9, the main subject in the middle, away from the edges. Make the image now, without asking questions.
-
-============================================================
-Image 62
-Sheet (1) = sheet 1, Ash with NO clothes (his master sheet): https://amir4332.github.io/p/v5/sheets/sheet-01.jpg
-Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a straw sun hat): https://amir4332.github.io/p/v5/sheets/sheet-02.jpg
-Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir4332.github.io/p/v5/sheets/sheet-03.jpg
-
-Image 62. (This number is only for my ordering; never draw it.)
-
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
-
-Use the attached sheets 1, 2, 3 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views). Draw Ash and Ash's apartment EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
-
-SCENE: Ash sits up on the edge of the bed in the dark and holds his head in both hands, sweating.
-
-CAMERA FOR THE BED (the same in every bed picture): from the same direction as panel 1 of the apartment sheet, but close to the bed: the bed runs across the picture from left to right, its pillow at the LEFT end against the left wall, exactly like the first drawing of sheet 2; behind the bed is the cream wall with the lower left corner of the big window. The little fan, when it is there, is clipped to the bed frame at the head end, next to the pillow, as on the objects sheet.
-
-POSE: Both of his hands hold the sides of his head; his elbows rest on his knees. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. Sitting on the edge of the bed: from the hip, both legs bend over the edge and go down to the floor, two separate thin black lines, each ending in one white sneaker flat on the floor, never crossed or tangled.
+POSE: His RIGHT hand lies on his forehead; his LEFT arm lies on the mattress beside his body, a little apart from it, ending in one hand. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. Lying on his back EXACTLY like on sheet 9: seen from the side, his head on the pillow at the RIGHT end of the bed, facing up; his body ONE straight thin line from the neck going LEFT along the mattress to ONE hip point; from that point his two legs go left: the near leg straight along the mattress, the far leg with its knee raised; each leg ONE thin line ending in one white sneaker; never a third leg or an extra arm.
 
 Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master sheet (pick the closest face from its row of faces; never change or add features): a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; hair EXACTLY like his sheet: a soft, rounded, fluffy mop of dark brown-black hair in gently wavy tufts that hug his head like a messy cap, the fringe stopping just above his glasses (NOT spiky, nothing standing straight up, never a big wild bush); round thin-framed glasses: two equal round lenses side by side ON his face, each with exactly ONE small black dot eye (a lens never sits outside his head); NO nose; short thick eyebrows; a simple line mouth; a few stubble dots; a simple, calm face, never twisted or ugly; his neck, body, arms and legs are each ONE single thin black line (never two parallel lines, a tube or a box); small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. It is hot: he wears NO clothes and NO hat (no shirt, pants, shorts or underwear), only his white sneakers; his body, arms and legs are single thin black lines.
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN.
-
-Night during the power cut: deep navy darkness, soft blue moonlight through the window, NO lights anywhere in the city outside (no lit windows), many stars; the only warm light is a small flashlight pool where the description says. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
-
-Style: exactly like the attached sheets: a clean hand-painted 2D cartoon, clean dark outlines, simple shapes, smooth soft MATTE shading, soft muted colors. NOT glossy, NOT 3D, NOT a photo, NOT anime; no glow, lens flare, neon or grain.
-
-ONE single picture, never a grid of panels like the sheets. No text, letters or numbers anywhere: papers and screens are blank, and the radio dial has only tick marks. No weapons, wounds or blood. Wide 16:9, the main subject in the middle, away from the edges. Make the image now, without asking questions.
-
-============================================================
-Image 63
-Sheet (1) = sheet 1, Ash with NO clothes (his master sheet): https://amir4332.github.io/p/v5/sheets/sheet-01.jpg
-Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a straw sun hat): https://amir4332.github.io/p/v5/sheets/sheet-02.jpg
-Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir4332.github.io/p/v5/sheets/sheet-03.jpg
-
-Image 63. (This number is only for my ordering; never draw it.)
-
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
-
-Use the attached sheets 1, 2, 3 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views). Draw Ash and Ash's apartment EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
-
-SCENE: Ash stands beside his bed in the dark, dizzy, leaning on the wall; the room looks a little tilted.
-
-CAMERA FOR THE BED (the same in every bed picture): from the same direction as panel 1 of the apartment sheet, but close to the bed: the bed runs across the picture from left to right, its pillow at the LEFT end against the left wall, exactly like the first drawing of sheet 2; behind the bed is the cream wall with the lower left corner of the big window. The little fan, when it is there, is clipped to the bed frame at the head end, next to the pillow, as on the objects sheet.
-
-POSE: His RIGHT hand leans flat on the wall; his LEFT hand is on his forehead. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the floor, never crossed, tangled or bent backwards.
-
-Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master sheet (pick the closest face from its row of faces; never change or add features): a big round head, pure bright white like printer paper (never cream or tinted by the light), clean black outline; hair EXACTLY like his sheet: a soft, rounded, fluffy mop of dark brown-black hair in gently wavy tufts that hug his head like a messy cap, the fringe stopping just above his glasses (NOT spiky, nothing standing straight up, never a big wild bush); round thin-framed glasses: two equal round lenses side by side ON his face, each with exactly ONE small black dot eye (a lens never sits outside his head); NO nose; short thick eyebrows; a simple line mouth; a few stubble dots; a simple, calm face, never twisted or ugly; his neck, body, arms and legs are each ONE single thin black line (never two parallel lines, a tube or a box); small pure white cartoon hands with a thumb and FOUR fingers; white sneakers. No wounds or blood. It is hot: he wears NO clothes and NO hat (no shirt, pants, shorts or underwear), only his white sneakers; his body, arms and legs are single thin black lines.
-
-Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
-
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
 
 Night during the power cut: deep navy darkness, soft blue moonlight through the window, NO lights anywhere in the city outside (no lit windows), many stars; the only warm light is a small flashlight pool where the description says. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -435,7 +376,7 @@ Sheet (2) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sh
 
 Image 64. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK: the camera is the one named below, every piece of furniture stays exactly where its sheet shows it, and nothing is added, moved or removed.
+BEFORE YOU DRAW, CHECK: the camera is the one named below, every piece of furniture stays exactly where its sheet shows it, and nothing is added, invented, moved, turned or mirrored; when unsure, copy the sheet.
 
 Use the attached sheets 3, 8 (sheet 3 = Ash's small top-floor apartment in four views; sheet 8 = the objects of my story). Draw Ash's apartment and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -462,7 +403,7 @@ Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a s
 
 Image 65. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat)). Draw Ash EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -491,7 +432,7 @@ Sheet (4) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sh
 
 Image 66. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 3, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views; sheet 8 = the objects of my story). Draw Ash, Ash's apartment and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -521,7 +462,7 @@ Sheet (3) = sheet 4, the six-story brick building, the fifth-floor hallway, the 
 
 Image 67. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 4 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 4 = the six-story brick building, the fifth-floor hallway, the stairwell and the lobby). Draw Ash and the building EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -551,7 +492,7 @@ Sheet (3) = sheet 4, the six-story brick building, the fifth-floor hallway, the 
 
 Image 68. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 4 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 4 = the six-story brick building, the fifth-floor hallway, the stairwell and the lobby). Draw Ash and the building EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -581,7 +522,7 @@ Sheet (3) = sheet 4, the six-story brick building, the fifth-floor hallway, the 
 
 Image 69. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 4 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 4 = the six-story brick building, the fifth-floor hallway, the stairwell and the lobby). Draw Ash and the building EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -610,7 +551,7 @@ Sheet (2) = sheet 2, Ash in this story's poses, with no clothes (and once in a s
 
 Image 70. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat)). Draw Ash EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -632,24 +573,24 @@ ONE single picture, never a grid of panels like the sheets. No text, letters or 
 
 ============================================================
 Image 71
-Sheet (1) = sheet 3, Ash's small top-floor apartment in four views: https://amir4332.github.io/p/v5/sheets/sheet-03.jpg
-Sheet (2) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sheets/sheet-08.jpg
+Sheet (1) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sheets/sheet-08.jpg
+Sheet (2) = sheet 9, the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end: https://amir4332.github.io/p/v5/sheets/sheet-09.jpg
 
 Image 71. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK: the camera is the one named below, every piece of furniture stays exactly where its sheet shows it, and nothing is added, moved or removed.
+BEFORE YOU DRAW, CHECK: the camera is the one named below, every piece of furniture stays exactly where its sheet shows it, and nothing is added, invented, moved, turned or mirrored; when unsure, copy the sheet.
 
-Use the attached sheets 3, 8 (sheet 3 = Ash's small top-floor apartment in four views; sheet 8 = the objects of my story). Draw Ash's apartment and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
+Use the attached sheets 8, 9 (sheet 8 = the objects of my story; sheet 9 = the BED VIEW: Ash lying on his bed, seen from the side, the pillow at the RIGHT end). Draw the objects and the bed view EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
 From the objects sheet, draw ONLY the objects this description names; nothing else from that sheet appears in the picture.
 
 SCENE: Upstairs in the dark apartment: the little fan clipped to the bed frame still blows at the empty pillow; the air from it is shown as faint orange wavy lines. No people.
 
-CAMERA FOR THE BED (the same in every bed picture): from the same direction as panel 1 of the apartment sheet, but close to the bed: the bed runs across the picture from left to right, its pillow at the LEFT end against the left wall, exactly like the first drawing of sheet 2; behind the bed is the cream wall with the lower left corner of the big window. The little fan, when it is there, is clipped to the bed frame at the head end, next to the pillow, as on the objects sheet.
+CAMERA FOR THE BED (the same in every bed picture): copy it EXACTLY from sheet 9, the bed view: the camera stands in the middle of the room and looks at the LEFT wall, so the bed runs across the picture with its headboard and pillow at the RIGHT end and its foot at the LEFT end; the plain cream wall behind it; only the left edge of the big window at the far right; the little fan, when it is there, clipped to the headboard next to the pillow. Never mirror or turn the bed.
 
 There are NO people in this picture.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
 
 Night during the power cut: deep navy darkness, soft blue moonlight through the window, NO lights anywhere in the city outside (no lit windows), many stars; the only warm light is a small flashlight pool where the description says. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -666,7 +607,7 @@ Sheet (4) = sheet 8, the objects of my story: https://amir4332.github.io/p/v5/sh
 
 Image 72. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 3, 8 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views; sheet 8 = the objects of my story). Draw Ash, Ash's apartment and the objects EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
@@ -682,7 +623,7 @@ Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master shee
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are pulled UP and the window is wide OPEN. The little battery fan, exactly like the objects sheet: a small round white desk fan with a white grill and light gray blades on a white clip.
 
 Dawn: soft pale gold light through the window, the sky over the city turning from blue to gold. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -698,13 +639,13 @@ Sheet (3) = sheet 3, Ash's small top-floor apartment in four views: https://amir
 
 Image 73. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face.
+BEFORE YOU DRAW, CHECK THESE FOUR THINGS: (1) NOBODY has a nose: a face is only the eyes (Ash: two round glasses, each with ONE dot eye), the eyebrows and a simple mouth line, copied from the sheets; nothing between the eyes and the mouth. (2) Every person has exactly 2 arms and 2 legs, each ONE thin black line; count them. (3) The camera is the one named below, and every piece of furniture stays exactly where its sheet shows it. (4) Faces, hair and heads are copied EXACTLY from the sheets; never change a face. (5) Draw ONLY what the sheets and this description show: never add, invent, move, turn or mirror anything; when unsure, copy the sheet.
 
 Use the attached sheets 1, 2, 3 (sheet 1 = Ash with NO clothes (his master sheet); sheet 2 = Ash in this story's poses, with no clothes (and once in a straw sun hat); sheet 3 = Ash's small top-floor apartment in four views). Draw Ash and Ash's apartment EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
 SCENE: Morning in the amber room: Ash stands still in the middle of his apartment, looking down at the floor, worried, waiting.
 
-CAMERA (never change it): exactly the camera of panels 1–3 of the apartment sheet: at eye level just inside the front door, looking straight at the window wall. The furniture stays EXACTLY where that sheet shows it: the bed in the lower LEFT with its pillow against the left wall, the round table with its one chair in the middle, the white fridge and the kitchen corner along the RIGHT wall, the window in the middle of the back wall. Never another angle; never move, add or remove furniture.
+CAMERA (never change it): exactly the camera of panels 1–3 of the apartment sheet: at eye level just inside the front door, looking straight at the window wall. The furniture stays EXACTLY where that sheet shows it: the bed along the LEFT wall with its headboard and pillow at the BACK by the window wall and its foot toward us, the round table with its one chair in the middle, the white fridge and the kitchen corner along the RIGHT wall, the window in the middle of the back wall. Never another angle; never move, add or remove furniture.
 
 POSE: Both of his arms hang at his sides. Both arms are clearly visible, each a thin black line from the shoulder to one white cartoon hand with a thumb and four fingers. His two legs are separate thin black lines, each from the hip to one white sneaker on the floor, never crossed, tangled or bent backwards.
 
@@ -712,7 +653,7 @@ Ash: copy his head, face, hair and glasses EXACTLY from sheet 1, his master shee
 
 Every person has exactly TWO arms and TWO legs; every arm is joined at the shoulder and ends in one hand with a thumb and FOUR fingers (never a round ball); each body is ONE single thin black line from the neck down to ONE hip point, and both legs start from that same point; every arm and leg is ONE single line, never two parallel lines, a tube or a box; nothing (no chair, rail or blanket) cuts across an arm or a leg. Nobody has a nose, and each eye is ONE small black dot.
 
-Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow on the LEFT, a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are fully DOWN with the slats closed.
+Ash's apartment, exactly like its sheet: cream walls, a light wooden floor, ONE big window with white horizontal slat blinds and a cord on the back wall, a single bed with a white sheet and one pillow along the LEFT wall (its headboard and pillow at the back, by the window wall; its foot toward the front door), a tall white fridge and a small kitchen corner with a sink on the RIGHT, a small round wooden table with one chair in the middle, one round ceiling lamp; the camera stands near the front door, as on the sheet, unless said otherwise. The blinds are fully DOWN with the slats closed.
 
 Inside with the blinds down: a dim, warm amber light, with thin stripes of sunlight through the slats on the floor and the bed. Everything is new and clean unless this description says otherwise: no rust, cracks, peeling paint, stains or grime.
 
@@ -726,7 +667,7 @@ Sheet (1) = sheet 6, Walter's apartment in four views: https://amir4332.github.i
 
 Image 74. (This number is only for my ordering; never draw it.)
 
-BEFORE YOU DRAW, CHECK: the camera is the one named below, every piece of furniture stays exactly where its sheet shows it, and nothing is added, moved or removed.
+BEFORE YOU DRAW, CHECK: the camera is the one named below, every piece of furniture stays exactly where its sheet shows it, and nothing is added, invented, moved, turned or mirrored; when unsure, copy the sheet.
 
 Use the attached sheet 6 (sheet 6 = Walter's apartment in four views). Draw Walter's apartment EXACTLY like the sheets; the sheets show only how things look; the pose, action and camera come from this description.
 
